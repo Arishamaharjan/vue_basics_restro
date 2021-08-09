@@ -69,9 +69,41 @@
   ],
   "restaurant": [
     {
-      "name": "abcd",
-      "address": "as",
-      "contact": "32w",
+      "name": "abcdcsd",
+      "address": "assdcs",
+      "contact": "32wsd",
+      "id": 1
+    },
+    {
+      "name": "arisha",
+      "address": "satdobato",
+      "contact": "9860309740",
+      "id": 2
+    },
+    {
+      "name": "asc",
+      "address": "asc",
+      "contact": "asc",
+      "id": 3
+    },
+    {
+      "name": "nilesh",
+      "address": "nil,esh",
+      "contact": "nilesh",
+      "id": 4
+    },
+    {
+      "name": "ccds",
+      "address": "dsfsd",
+      "contact": "sdfsd",
+      "id": 5
+    }
+  ],
+  "book": [
+    {
+      "name": "dscsd",
+      "author": "dcs",
+      "rating": "4564",
       "id": 1
     }
   ]

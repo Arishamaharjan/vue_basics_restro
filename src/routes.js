@@ -3,6 +3,9 @@ import SignUp from './components/SignUp.vue'
 import Login from './components/Login.vue'
 import Add from './components/Add.vue'
 import Update from './components/Update.vue'
+import AddBooks from './components/AddBooks.vue'
+import UpdateBooks from './components/UpdateBooks.vue'
+
 
 
 import {
@@ -36,6 +39,16 @@ const routes=[
         name: 'Update',
         path: '/update/:id',
         component: Update
+    },
+    {
+        name: 'AddBooks',
+        path: '/addbooks',
+        component: AddBooks
+    },
+    {
+        name: 'UpdateBooks',
+        path: '/updatebooks/:id',
+        component: UpdateBooks
     }
 ]
 
