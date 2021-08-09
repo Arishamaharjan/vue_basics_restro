@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "xcv",
+      "password": "xcxcv",
+      "name": "xcv",
+      "id": 1
+    },
+    {
+      "email": "arisha@gmail.com",
+      "password": "arisha@123",
+      "name": "arisha",
+      "id": 2
+    },
+    {
+      "email": "sdfsdf",
+      "password": "sdfsdf",
+      "name": "sdfs",
+      "id": 3
+    },
+    {
+      "email": "sdfsdfs",
+      "password": "sgsdgf",
+      "name": "sdfsdf",
+      "id": 4
+    },
+    {
+      "email": "sdf",
+      "password": "sdf",
+      "name": "sdf",
+      "id": 5
+    },
+    {
+      "email": "sdf",
+      "password": "sdfsdf",
+      "name": "sdf",
+      "id": 6
+    },
+    {
+      "email": "sdfsdf",
+      "password": "sdf",
+      "name": "sdfsdf",
+      "id": 7
+    },
+    {
+      "email": "sdf",
+      "password": "sdfsdf",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "sdf",
+      "password": "sdfsdf",
+      "name": "sdfdsf",
+      "id": 9
+    },
+    {
+      "email": "sdf",
+      "password": "sdfsdf",
+      "name": "xvcxv",
+      "id": 10
+    },
+    {
+      "email": "sdf",
+      "password": "sdfsdf",
+      "name": "sdfs",
+      "id": 11
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "abcd",
+      "address": "as",
+      "contact": "32w",
+      "id": 1
+    }
+  ]
+}
